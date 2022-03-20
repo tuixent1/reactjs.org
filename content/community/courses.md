@@ -56,3 +56,5 @@ permalink: community/courses.html
 - [Road to React](https://www.roadtoreact.com/) - Your journey to master React in JavaScript.
 
 - [Epic React](https://epicreact.dev/) - Confidently Ship Well-Architected Production Ready React Apps Like a Pro
+
+- [Fireship.io](https://fireship.io/courses/react/) - Learn React by doing five projects from scratch (Work in progress).
